@@ -1,0 +1,17 @@
+{
+  "name": "rent-house",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "lowdb": "^0.16.2",
+    "nightmare": "^2.10.0",
+    "nodemailer": "^4.0.1"
+  }
+}
